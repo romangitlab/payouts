@@ -2,6 +2,7 @@
 `WireMock, RestAssured, Java, Maven`
 
 Workflow:
+
 Create wiremock stub to check following payout requests:
 - Check payout is accepted
 - Check payout is duplicated
